@@ -10,7 +10,7 @@ excerpt_image: https://github.com/enixjm/enixjm.github.io/assets/30498334/765568
  - SW 개발병 자격증 기사 이상 급 부여 (10점/10점)
 
 ##### COS PRO 과목별 응시료 할인 쿠폰
-> https://www.ybmit.com/event/revent/2024/0201/event.jsp
+> [https://www.ybmit.com/event/revent/2024/0201/event.jsp](https://www.ybmit.com/event/revent/2024/0201/event.jsp)
 
 2024년도에 시험을 보실 예정이시라면 3월 이내로 미리 할인 쿠폰을 받아두시면 좋겠습니다.
 ![image](https://github.com/enixjm/enixjm.github.io/assets/30498334/7655680d-c6c9-4cbf-8f0a-3126bec9650e){: height="250"}
