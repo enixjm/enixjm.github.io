@@ -2,7 +2,7 @@
 layout: post
 title: Attention Is All You Need
 subtitle: 
-categories: 논문 리뷰
+categories: 논문_리뷰
 tags: 
 sidebar:
 ---
